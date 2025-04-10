@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./KMeans_From_Scratch"
+    ]
+}
